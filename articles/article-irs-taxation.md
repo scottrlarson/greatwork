@@ -15,7 +15,7 @@ This article was written from my understanding of government systems and the cou
 If you don't understand the prerequisite subjects I linked below it's likely that this information will not serve you. There is a chance that this information will not serve you at all regardless of your knowledge if you maintain some kind of karmic debt that needs to be balanced. The courts and other forms of authority even as corrupt as they are still are used by the universe to serve the greater good when it comes to individuals who have not understood their greater purpose for being on this planet. If you act in a manner that is unjust in your daily life the universe may act against you though [Natural Law]() and use the courts or government to do it even if you have a valid claim against them. This means that what ever claim you have may or will be ignored and you will feel the consequences of your actions though, but not limited to, the means of the courts or government actions against your person.
 
 1. [Understanding the difference between Natural, Common and Civil law].
-2. [Understanding your role]() in:
+2. [Understanding your role](./pricipals/pricipal-roles.md) in:
 	- Courts
 	- Government
 3.  [Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ]()
