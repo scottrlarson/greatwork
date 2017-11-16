@@ -18,16 +18,16 @@ If you don't understand the prerequisite subjects I linked below it's likely tha
 2. [Understanding your role](../principals/pricipal-roles.md) in:
 	- Courts
 	- Government
-3.  [Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ]()
-4. [How to write a letter.](https://redress4dummies.wordpress.com/study-guide/letter-writing-basics/)
-5.  [Attitude determines outcomes.]()
-6. [The path of least resistance means the path with no conflict.]()
+3.  [Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ](aritcle-responding-writing.md)
+4. [How to write a letter]
+5.  [Attitude determines outcomes.](article-attitude-determines-outcome.md)
+6. [The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)
 
 As I was growing up in my teens I took various jobs. One of the so called prerequisites was filling out a tax form from the IRS.  I didn't think much of it looking back on those years now, but at some point in my late thirties I started to wonder about paying taxes because of the lies the mainstream media told and the United States government supported in relationship to 9/11 which orchestrated the Untied States involvement in Iraq and Afghanistan.
 
 I really didn't think that our government was acting for the will of the people so I started to wonder about my relationship to government. I started learning about common law from Dean Clifford and Rob Menard. Please be aware of a few thing when I drop these names that I have discovered on my own:
 
-1. There is an active effort on the part of the established ruling class to obfuscate this information using what I call "[War on Consciousness]()" tactics. There has been various tactics used from creating terms like "Sovereign Citizen" which is an oxymoron in and of itself when you look up the etymology of the two words that creates confusion and aligns the police and the ruling class togeather to try and stop, in the name of law, the common law movements that are springing up everywhere.
+1. There is an active effort on the part of the established ruling class to obfuscate this information using what I call "[War on Consciousness](article-war-consciousness.md)" tactics. There has been various tactics used from creating terms like "Sovereign Citizen" which is an oxymoron in and of itself when you look up the etymology of the two words that creates confusion and aligns the police and the ruling class togeather to try and stop, in the name of law, the common law movements that are springing up everywhere.
 2. The people who are leading the charge of these truth or common law movements are not perfect the have lives that can run counter to the ideals they communicate. This doesn't mean you can't learn from them. You have to learn how to hold ideas in you head without accepting or rejecting them until you make your own decision to accept or reject. Do not just rely on someone else's opinion, you do this by following the [trivium method](http://www.triviumeducation.com/). You also shouldn't discount everything someone says because of there behavior. This is a mind control tactic that people who support de facto established systems use to stop people from staying on the path to truth. Don't become apart of that. For the most part I would suggest you make up your own mind from the subject matter, not the persons actions. Try to get a tapestry of a persons work before you discount it. If after sampling various topics of a particular researcher and you find that they repeatedly show bad conduct in their subject matters, then make your decision. I myself have been thrown off track of good information by this tactic quite a bit because I didn't want to be seen as supporting work from researchers that have been so called debunked using some minute issue that was never really important.
 
 Eventually I moved on to Karl Lentz's work as it was very simple to understand and it stuck with common law aspects to protect rights instead of delving into Civil law. Karl Lentz said it best, dont use their stuff (Meaning Civil courts and law), stand your ground in common law. If you try to use Civil law against the system they will just change their codes or ignore your work. They can do this because its not Customary law, its rules and codes that people in these de facto established systems make up and can change at will.  For the most part, Civil law is handed down to us by people who have built careers off of ruling the people though arbitrary policies they created to take away individual rights so they can create a power differential between the people and themselves. They have no interest it what is right, only what they can do with the power they acquired though our acquiesce.
@@ -75,3 +75,9 @@ Unless you make above 50,000 a year you probably wont have to worry about the IR
 
 
 [Understanding the difference between Natural, Common and Civil law]: https://www.law.berkeley.edu/library/robbins/CommonLawCivilLawTraditions.html
+[Understanding your role](../principals/pricipal-roles.md)
+[Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ](aritcle-responding-writing.md)
+[How to write a letter]: https://redress4dummies.wordpress.com/study-guide/letter-writing-basics
+[Attitude determines outcomes.](article-attitude-determines-outcome.md)
+[The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)
+[The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)

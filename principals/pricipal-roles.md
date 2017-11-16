@@ -33,7 +33,7 @@ The jurisdiction of the court is the venue you are in. You could be at Queen Ben
  
 Common or Customary law was used by Rome to handle issues of Romans, until Rome changed from a republic to a empire. Rome had Emperoors then and Emperors didnt like that their decisions could be countered by customary law. So Civil law started to take over as it was easier to apply and it allowed Emperors to handle disputes in a uniform fashion. The problem was that indivdual rights gave way to the needs of society. The emperors ruled there soceities in a way that didnt allow for much customary law.
  
-Today Common law nations like the United States and England really use Civil law for most cases since it allows political governments to exercise power over its city-states. Common or Customary law is rarely used unless invoked by an individual.  Even then it may be difficult to invoke this type of law since most don't understand how it works or if it really exists. 
+Today Common law nations like the United States and England really use Civil law for most cases since it allows political governments to exercise power over its city-states. Common or Customary law is rarely used unless invoked by an individual.  Even then it may be difficult to invoke this type of law since most don't understand how it works or if it really exists. See [The Common Law and Civil Law Traditions] for more information.
 
 But the reality is that we (as in the people) have customary law at our disposal. It really is suppose to be used to handle interference of our rights of mankind.
 
@@ -53,9 +53,9 @@ Government programs like The Internal Revenue Service (I.R.S) is exactly what th
 
 Since the I.R.S is not a person in order to interact with you they have to get you to assume a role like Tax Payer. The term "Tax Payer" is a fictitious entity. Its not really you, but they want you to respond to a letter that addresses you as something that you are not. Do not respond to letters that don't address you by name or ask for clarification on who the are trying to reach. Are you "Joe Silver" or "Tax Payer". Make a choice and stick with it. Never let an organization reduce you to a fictitious entity. You will regret it one day when you want them to see you as you want to be seen.
 
-[leet court]: https://en.m.wikipedia.org/wiki/Court_leet
-[Magistrates' court (England and Wales)]: https://en.m.wikipedia.org/wiki/Magistrates%27_court_(England_and_Wales)
-[Medieval English government]: https://faculty.history.wisc.edu/sommerville/123/123%20133%20government.htm
-[Royal and noble ranks]: https://en.m.wikipedia.org/wiki/Royal_and_noble_ranks
-[The Common Law and Civil Law Traditions] : https://www.law.berkeley.edu/library/robbins/CommonLawCivilLawTraditions.html
-[Marine salvage]: https://en.m.wikipedia.org/wiki/Marine_salvage
+[leet court]: https://en.m.wikipedia.org/wiki/Court_leet  
+[Magistrates' court (England and Wales)]: https://en.m.wikipedia.org/wiki/Magistrates%27_court_(England_and_Wales)  
+[Medieval English government]: https://faculty.history.wisc.edu/sommerville/123/123%20133%20government.htm  
+[Royal and noble ranks]: https://en.m.wikipedia.org/wiki/Royal_and_noble_ranks  
+[The Common Law and Civil Law Traditions] : https://www.law.berkeley.edu/library/robbins/CommonLawCivilLawTraditions.html  
+[Marine salvage]: https://en.m.wikipedia.org/wiki/Marine_salvage  
