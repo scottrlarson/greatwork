@@ -7,7 +7,7 @@ The rights to all this content is  "without prejudice" and "under reserve". Boun
 
 # Understanding the difference between Natural, Common and Civil law
 
-Please read the principal articles on [Natural](), [Common]() and [Civil]() law before delving into this article. The subject matter will assume you know what each of these topics mean.
+Please read [Natural, Common and Civil](../law/law-types.md) law before delving into this article. The subject matter will assume you know what each of these topics mean.
 
 ## Natural law
 
