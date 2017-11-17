@@ -17,6 +17,8 @@ The kind of law (Civil) or (Common) is the rules a court operates under.
 
 The jurisdiction of the court is the venue you are in. You could be at Queen Bench, a federal court, a state court, a city court, a county court etc... The venue you are at determines determine how the rules are setup. Notice I use "at" instead of "in" court. There is a big difference between those two words that I will get to.
 
+
+
 ### Civil
  
  A Civil law court typically is used to handle matters of commerce. Actually from the stand point of a Civil Jursidiction, quite a bit falls falls under commerce law, even criminal matters actually sometimes fall under commerce. 
