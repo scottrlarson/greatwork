@@ -75,9 +75,9 @@ Unless you make above 50,000 a year you probably wont have to worry about the IR
 
 
 [Understanding the difference between Natural, Common and Civil law]: https://www.law.berkeley.edu/library/robbins/CommonLawCivilLawTraditions.html
-[Understanding your role](../principals/pricipal-roles.md)
-[Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ](aritcle-responding-writing.md)
-[How to write a letter]: https://redress4dummies.wordpress.com/study-guide/letter-writing-basics
-[Attitude determines outcomes.](article-attitude-determines-outcome.md)
-[The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)
-[The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)
+[Understanding your role](../principals/pricipal-roles.md)  
+[Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ](aritcle-responding-writing.md)  
+[How to write a letter]: https://redress4dummies.wordpress.com/study-guide/letter-writing-basics  
+[Attitude determines outcomes.](article-attitude-determines-outcome.md)  
+[The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)  
+[The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)  
