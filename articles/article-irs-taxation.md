@@ -19,7 +19,7 @@ If you don't understand the prerequisite subjects I linked below it's likely tha
 	- Courts
 	- Government
 3.  [Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ](aritcle-responding-writing.md)
-4. [How to write a letter]
+4. [How to write a letter](https://redress4dummies.wordpress.com/study-guide/letter-writing-basics)
 5.  [Attitude determines outcomes.](article-attitude-determines-outcome.md)
 6. [The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)
 
@@ -77,7 +77,7 @@ Unless you make above 50,000 a year you probably wont have to worry about the IR
 [Understanding the difference between Natural, Common and Civil law]: https://www.law.berkeley.edu/library/robbins/CommonLawCivilLawTraditions.html
 [Understanding your role](../principals/pricipal-roles.md)  
 [Always respond in writing unless you need to further clarify or authenticate your written document with your voice. ](aritcle-responding-writing.md)  
-[How to write a letter]: https://redress4dummies.wordpress.com/study-guide/letter-writing-basics  
+[How to write a letter](https://redress4dummies.wordpress.com/study-guide/letter-writing-basics)  
 [Attitude determines outcomes.](article-attitude-determines-outcome.md)  
 [The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)  
 [The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)  
