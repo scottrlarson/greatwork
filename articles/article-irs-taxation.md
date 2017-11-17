@@ -23,7 +23,7 @@ If you don't understand the prerequisite subjects I linked below it's likely tha
 5.  [Attitude determines outcomes.](article-attitude-determines-outcome.md)
 6. [The path of least resistance means the path with no conflict.](article-path-of-least-resistance.md)
 
-As I was growing up in my teens I took various jobs. One of the so called prerequisites was filling out a tax form from the IRS.  I didn't think much of it looking back on those years now, but at some point in my late thirties I started to wonder about paying taxes because of the lies the mainstream media told and the United States government supported in relationship to 9/11 which orchestrated the Untied States involvement in Iraq and Afghanistan.
+As I was growing up in my teens I took various jobs. One of the so called prerequisites was filling out a tax form from the IRS.  I didn't think much of it looking back on those years now, but at some point in my late thirties I started to wonder about paying taxes because of the lies the mainstream media told, and the United States government supported, in relationship to 9/11 which orchestrated the Untied States involvement in Iraq and Afghanistan.
 
 I really didn't think that our government was acting for the will of the people so I started to wonder about my relationship to government. I started learning about common law from Dean Clifford and Rob Menard. Please be aware of a few thing when I drop these names that I have discovered on my own:
 
