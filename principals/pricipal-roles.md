@@ -11,15 +11,15 @@ The rights to all this content is  "without prejudice" and "under reserve". Boun
 
 Think of a court of law or a court of record like a Sovereign [royal court.](https://en.m.wikipedia.org/wiki/Court_(royal)) In a Sovereign kingdom You usually have a King (Sovereign), a Queen, a Prince and so on.
 
-Courts of law ([Civil] [CCLT1]) and record([Common] [CCLT1]) are modeled after the royal court structure. The main rodles are: Judge/Justice, Jury,  and Clerks. [^6](#footnotes)
+Courts of law (Civil) and record(Common) are modeled after the royal court structure. The main rodles are: Judge/Justice, Jury,  and Clerks. [^6](#footnotes)
 
-The kind of law ([Civil] [CCLT1]) or ([Common] [CCLT1]) is the rules a court operates under.
+The kind of law (Civil) or (Common) is the rules a court operates under. [^6](#footnotes)
 
 The jurisdiction of the court is the venue you are in. You could be at Queen Bench, a federal court, a state court, a city court, a county court etc... The venue you are at determines determine how the rules are setup. Notice I use "at" instead of "in" court. There is a big difference between those two words that I will get to.
 
 ### Civil
  
- A Civil law court typically is used to handle matters of commerce. Actually from the stand point of a Civil Jursidiction, quite a bit falls falls under commerce law, even criminal matters actually sometimes fall under commerce. 
+ A Civil law court typically is used to handle matters of commerce. Actually from the stand point of a Civil Jurisdiction, quite a bit falls falls under commerce law, even criminal matters actually sometimes fall under commerce. 
  
  Civil law originated from Rome. Rome conquered many nations, they need a system of law to use when dealing with a populace that was not Roman and to handle disputes of commerce between Romans and non-romans.
  
@@ -27,17 +27,17 @@ The jurisdiction of the court is the venue you are in. You could be at Queen Ben
  
 ### Common
  
- [Common] [CCLT1] law is based on the customs of a society. Customs usually came about from the Natural world of do unto others as you would like done to yourself.
+ Common law is based on the customs of a society. Customs usually came about from the Natural world of do unto others as you would like done to yourself.
  
  Over time case law derived from decisions based on customs of society built up over time. A judge or a justice, judges were called justices because they only passed down rulings based on customary law that were deemed just by the people.
  
-[Common] [CCLT1] or Customary law was used by Rome to handle issues of Romans, until Rome changed from a republic to a empire. Rome had Emperoors then and Emperors didnt like that their decisions could be countered by customary law. So Civil law started to take over as it was easier to apply and it allowed Emperors to handle disputes in a uniform fashion. The problem was that indivdual rights gave way to the needs of society. The emperors ruled there soceities in a way that didnt allow for much customary law.
+Common or Customary law was used by Rome to handle issues of Romans, until Rome changed from a republic to a empire. Rome had Emperoors then and Emperors didnt like that their decisions could be countered by customary law. So Civil law started to take over as it was easier to apply and it allowed Emperors to handle disputes in a uniform fashion. The problem was that indivdual rights gave way to the needs of society. The emperors ruled there soceities in a way that didnt allow for much customary law.
  
-Today [Common] [CCLT1] law nations like the United States and England really use Civil law for most cases since it allows political governments to exercise power over its city-states. [Common] [CCLT1] or Customary law is rarely used unless invoked by an individual.  Even then it may be difficult to invoke this type of law since most don't understand how it works or if it really exists. 
+Today Common law nations like the United States and England really use Civil law for most cases since it allows political governments to exercise power over its city-states. Common or Customary law is rarely used unless invoked by an individual.  Even then it may be difficult to invoke this type of law since most don't understand how it works or if it really exists. 
 
 But the reality is that we (as in the people) have customary law at our disposal. It really is suppose to be used to handle interference of our rights of mankind.
 
-When a Police Officer (Really called Peace Keeper in [Common] [CCLT1]/Customary Law) pulls you over for a traffic violation they are operating under Civil law even though they should be operating under both deeding on the situation.
+When a Police Officer (Really called Peace Keeper in Common/Customary Law) pulls you over for a traffic violation they are operating under Civil law even though they should be operating under both deeding on the situation.
 
 Traveling from point A to point B on a public road is a Right. The people pay for the roads, and the peace keepers are put in place by the will of the people. But some how the situation got turned around. Peace Keepers rarely operate under the Peace Keeping flag and instead operate like salvors that see you as [salvage] [MS1] that is adrift at sea.
  
@@ -45,7 +45,7 @@ Understanding the role you play or at least understanding that Civil governmenta
 
 In court what you say and the words you use determines how you will be perceived.
 
-Remember that courts are put into place to serve the people and the public good, not to give a judge or a Judicial system license to interfere with your rights. In Natural Law we are consider self-determined, In [Common] [CCLT1]/Customary Law our rights to life, freedom and property are paramount, in Civil Law society determines what your rights are. Its really up to you on how you want to be perceived. If you do not make a choice (with your actions) the choice will be made for you. If you don't want to deal with the world the way it is thats fine, just remember you might be treated like [salvage] [MS1] and pay the consequences of being treated like [salvage] [MS1].
+Remember that courts are put into place to serve the people and the public good, not to give a judge or a Judicial system license to interfere with your rights. In Natural Law we are consider self-determined, In Common/Customary Law our rights to life, freedom and property are paramount, in Civil Law society determines what your rights are. Its really up to you on how you want to be perceived. If you do not make a choice (with your actions) the choice will be made for you. If you don't want to deal with the world the way it is thats fine, just remember you might be treated like salvage and pay the consequences of being treated like salvage. [^5](#footnotes)
 
 ##Government
 
