@@ -17,9 +17,9 @@ I call this Universal law, as I dont think there is a creator god in and of itse
 
 But that does mean we cant understand its creation to a certian extent. If we look at Hermetics this practice teaches that there are laws we are all bound by. The one principal we are going to address here is the the principal of cause and effect. But there are many others. If you are interested in learning more about these principals please check out the book called "[The Kybalion](https://github.com/scottrlarson/greatwork/blob/master/documents/files/TheKybalion.pdf)" It is a great primer on hermetic teachings,
 
-The pricipal of cause and effect states that for every cause in the universe there is any equal and opposite effect. Time plays a role but a very small one at best. Some people can get by for years or even centuries with out feeling any ill effects  of there actions, but sooner or later they will.
+The pricipal of cause and effect states that for every cause in the universe there is any equal and opposite effect. Time plays a role but a very small one at best. Some people can get by for years or even centuries with out feeling any ill effects  of their actions, but sooner or later they will.
 
-From my understanding time only appers lienier on earth. But outside of the dimension that earth is in everything that can happen, does happen non-leinierly.
+From my understanding time only appears liner on earth. But outside of the dimension that earth is in everything that can happen, does happen non-linearly.
 
 Natural law means that if you act in a certain way you will experience the consequences of that act as an effect on yourself. How and when, is really a variable that is outside our ability to understand.  That is of course, unless you have some kind of special knowledge that most people don't have. There are always exceptions to rules, but they are difficult to know.
 
