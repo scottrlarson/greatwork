@@ -15,7 +15,7 @@ https://en.m.wikipedia.org/wiki/Natural_law
 
 I call this Universal law, as I dont think there is a creator god in and of itself. More like there is a source of creation that sits outside our understanding.
 
-But that does mean we cant understand its creation to a certian extent. If we look at Hermetics this practice teaches that there are laws we are all bound by. The one principal we are going to address here is the the principal of cause and effect. But there are many others. If you are interested in learning more about these principals please check out the book called "[The Kybilion]()" It is a great primer on hermetic teachings,
+But that does mean we cant understand its creation to a certian extent. If we look at Hermetics this practice teaches that there are laws we are all bound by. The one principal we are going to address here is the the principal of cause and effect. But there are many others. If you are interested in learning more about these principals please check out the book called "[The Kybalion](https://github.com/scottrlarson/greatwork/blob/master/documents/files/TheKybalion.pdf)" It is a great primer on hermetic teachings,
 
 The pricipal of cause and effect states that for every cause in the universe there is any equal and opposite effect. Time plays a role but a very small one at best. Some people can get by for years or even centuries with out feeling any ill effects  of there actions, but sooner or later they will.
 
