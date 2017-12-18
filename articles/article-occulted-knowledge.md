@@ -1,4 +1,4 @@
-# Cross Country Occulted Knowledge
+# Crossing Occulted Knowledge Country
 
 ![Occulted Knowledge Diagram](images/occulted-knowledge-small.png)
 
