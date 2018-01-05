@@ -3,13 +3,13 @@
 **Context**  
 *I watched the AMA video on https://pursuanceproject.org/ and wanted to see if I could make a case for dropping civil (Roman) concepts and ideologies in favor of common and grassroots concepts and ideologies.*
 
-*The links to words are to the etymology online dictionary. Please consider the nouns vs the verbs when look at the right context in which we come to an understanding. Roman law history has shown synonyms are typically used to obfuscate the true meaning of a particular word, at least when it comes to politics and government.*
+*The links to words are to the etymology online dictionary. Please consider the nouns vs the verbs when looking at the right context in which we come to an understanding. Roman law history has shown synonyms are typically used to obfuscate the true meaning of a particular word, at least when it comes to politics and government.*
 
 To: The Creators of the Pursuance Project, Barret Brown and Steve Phillips
 
 Might I suggest that you consider that the word [civic](https://www.etymonline.com/word/civics) is related to "[govern(v)](https://www.etymonline.com/word/govern)" the science of government and that in this case, government means to [rule(v)](https://www.etymonline.com/word/rule) with authority.
 
-[Authority](https://www.etymonline.com/word/authority) means in the conext of government to mean the right to rule(v). Now I ask you to conider that the right to "[rule(v)](https://www.etymonline.com/word/rule)" in the context of a verb "to control, guide, or direct" might not be what you want to convey as you go about create a new platform to ultimately create freedom from tyranny?
+[Authority](https://www.etymonline.com/word/authority) in the context of government means the right to rule(v). Now I ask you to consider that the right to "[rule(v)](https://www.etymonline.com/word/rule)" in the context of a verb "to control, guide, or direct" might not be what you want to convey as you go about creating a new platform to ultimately create freedom from tyranny a hold these tyrannical institutions accountable. Who has the right to rule you but you? Man may do things wrong and negatively impact society, but that does not give you the right to rule(v) over others. We can take action that is necessary to protect our rights, freedoms and property, but do we really have the right to rule(v) over another due to a wrong action?
 
 Might I suggest that the word "[common(agj.)](https://www.etymonline.com/word/common)" is a better word and ideology to use in place of "civic"? [Man(n.)](https://www.etymonline.com/word/man) is fluid and dynamic, has rights to life, freedom and property until those rights conflict with another.
 
