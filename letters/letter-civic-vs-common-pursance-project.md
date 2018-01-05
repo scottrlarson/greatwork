@@ -1,6 +1,6 @@
 # Open Letter to the Pursuance Project about the project's civil context 
 
-*Context*
+*Context*  
 **I watched the AMA video on https://pursuanceproject.org/ and wanted to see if I could make a case for dropping civil (Roman) concepts and ideologies in favor of common and grassroots concepts and ideologies.**
 
 **The links to words are to the etymology online dictionary. Please consider the nouns vs the verbs when look at the right context in which we come to an understanding. Roman law history has shown synonyms are typically used to obfuscate the true meaning of a particular word, at least when it comes to politics and government.**
