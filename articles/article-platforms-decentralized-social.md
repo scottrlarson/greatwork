@@ -1,4 +1,4 @@
-# Distributed / Decentralized Social Platforms
+# Distributed / Decentralized Social Platforms That Replace Twitter's and Facebook's Centralization of Content
 
 ## Diaspora
 
