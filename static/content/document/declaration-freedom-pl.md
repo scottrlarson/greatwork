@@ -1,0 +1,6 @@
+I declare that I never consented to any authority over my life from the US (United States) or otherwise. I live on the land where there are borders called the United States. I hereby require all people that created policies that are not aligned with my natural law freedoms (The right to life, freedom, property) to remove said polices that negatively effect my freedoms from this land. If you are operating as a authority figure for these polices or people that created these polices, know that you are operating against my will and rights and you are subjected to the same requirements to cease and desist as the people who created these polices. You are also liable for any actions you take on behalf of these people or these polices. The land belongs to the people that live upon it, it does not belong to any institutions or entities. For every day that these polices are not removed and or acted upon that threatens my natural rights to life, freedom, and property I require compensation.  Please see my fee schedule attached for having to protect my rights from being de-valued by these polices or actions that come from them.
+
+I verify all above is true and correct to the best of my ability.  
+Pauline Lugo  
+All rights reserved.  
+2017-07-24  

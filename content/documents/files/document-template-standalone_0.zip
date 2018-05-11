@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://www.commonwealths.org/sites/default/files/symbol-commonwealth_0.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="HandheldFriendly" content="true" />
+  <title>Page not found | The Commonwealths</title>
+  <style type="text/css" media="all">
+@import url("http://www.commonwealths.org/modules/system/system.base.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/system/system.menus.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/system/system.messages.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/system/system.theme.css?oqi0b1");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.commonwealths.org/sites/all/modules/simplenews/simplenews.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/book/book.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/calendar/css/calendar_multiday.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/comment/comment.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/date/date_api/date.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/field/theme/field.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/node/node.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/pm/pm.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/search/search.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/user/user.css?oqi0b1");
+@import url("http://www.commonwealths.org/modules/forum/forum.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/views/css/views.css?oqi0b1");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.commonwealths.org/sites/all/modules/ctools/css/ctools.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/lightbox2/css/lightbox.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/quotations/quotations.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/modules/rate/rate.css?oqi0b1");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.commonwealths.org/sites/all/themes/skeletontheme/css/skeleton.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/themes/skeletontheme/css/style.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/themes/skeletontheme/css/buttons.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/themes/skeletontheme/css/layout.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/themes/skeletontheme/color/colors.css?oqi0b1");
+@import url("http://www.commonwealths.org/sites/all/themes/skeletontheme/css/custom.css?oqi0b1");
+</style>
+  <script type="text/javascript" src="http://www.commonwealths.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/misc/drupal.js?oqi0b1"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/misc/form.js?v=7.54"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/sites/all/modules/resp_img/resp_img.js?oqi0b1"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/sites/all/themes/skeletontheme/js/jquery.mobilemenu.js?oqi0b1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+	
+	$("#navigation .content > ul").mobileMenu({
+		prependTo: "#navigation",
+		combine: false,
+        switchWidth: 760,
+        topOptionText: Drupal.settings.skeletontheme['topoptiontext']
+	});
+	
+	});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.commonwealths.org/sites/all/modules/lightbox2/js/auto_image_handling.js?oqi0b1"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/sites/all/modules/lightbox2/js/lightbox.js?1495781526"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/sites/all/modules/captcha/captcha.js?oqi0b1"></script>
+<script type="text/javascript" src="http://www.commonwealths.org/misc/collapse.js?v=7.54"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","skeletontheme":{"topoptiontext":"Select a page"},"ajaxPageState":{"theme":"skeletontheme","theme_token":"OuH3X98cwn--lLK64zqPFrWRU4ExF9yN7u0uagWyMq8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/form.js":1,"sites\/all\/modules\/resp_img\/resp_img.js":1,"sites\/all\/themes\/skeletontheme\/js\/jquery.mobilemenu.js":1,"0":1,"sites\/all\/modules\/lightbox2\/js\/auto_image_handling.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"misc\/collapse.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/pm\/pm.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/quotations\/quotations.css":1,"sites\/all\/modules\/rate\/rate.css":1,"sites\/all\/themes\/skeletontheme\/css\/skeleton.css":1,"sites\/all\/themes\/skeletontheme\/css\/style.css":1,"sites\/all\/themes\/skeletontheme\/css\/buttons.css":1,"sites\/all\/themes\/skeletontheme\/css\/layout.css":1,"sites\/all\/themes\/skeletontheme\/color\/colors.css":1,"sites\/all\/themes\/skeletontheme\/css\/custom.css":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"(\\.thumbnail)","trigger_lightbox_classes":"img.inline,img.thumbnail, img.image-thumbnail","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"respImg":{"default_suffix":"","current_suffix":false,"forceRedirect":false,"forceResize":false,"reloadOnResize":false,"useDevicePixelRatio":false,"suffixes":{"":1}},"urlIsAjaxTrusted":{"\/sites\/default\/files\/document-template-standalone_0.zip?destination=sites\/default\/files\/document-template-standalone_0.zip":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-sites page-sites-default page-sites-default-files page-sites-default-files-document-template-standalone-0zip pm-use-storm-icons" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="wrap">
+    <div class="container">
+        
+                <!-- #header-top -->
+        <div id="header-top" class="sixteen columns clearfix">
+            
+                        <div class="one_half">
+              <div class="region region-header-top-left">
+    <div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <p><strong>The rights to all content on this site is "without predudice" and "under reserve". Bound only by the natural laws of the universe.</strong></p>
+  </div>
+</div>
+  </div>
+            </div>
+            
+            <div class="one_half last">
+              <div class="region region-header-top-right">
+    <div id="block-system-user-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+      </div>
+</div>
+  </div>
+            </div>
+                        
+        </div><!-- /#header-top -->
+                
+        <div class="clear"></div>
+        
+        <!-- #header -->
+                <div id="header" class="sixteen columns clearfix">   
+                
+            <div class="inner">
+    
+                                  <a href="/" title="Home" rel="home" id="logo">
+                    <img src="http://www.commonwealths.org/sites/default/files/symbol-commonwealth.png" alt="Home" />
+                  </a>
+                                
+                                <div id="name-and-slogan">
+                
+                                        <div id="site-name">
+                    <a href="/" title="Home" rel="home">The Commonwealths</a>
+                    </div>
+                                        
+                                        <div id="site-slogan">
+                    Communities participating together for the good of all                    </div>
+                                    
+                </div>
+                            </div>
+			<hr>
+        </div><!-- /#header -->
+        
+                
+        <div class="clear"></div>
+        
+        <!-- #navigation -->
+        <div id="navigation" class="sixteen columns clearfix">
+        
+            <div class="menu-header">
+                              <div class="region region-header">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+      </div>
+</div>
+  </div>
+                            </div>
+            
+        </div><!-- /#navigation -->
+        
+                
+                <div id="content" class="sixteen columns clearfix">    
+                
+                    
+                        
+            <div id="main">
+            
+                                
+                                
+                                <h1 class="title" id="page-title">
+                  Page not found                </h1>
+                                
+                                
+                                <div class="tabs">
+                                  </div>
+                                
+                                
+                                
+                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    The requested page "/sites/default/files/document-template-standalone_0.zip" could not be found.  </div>
+</div>
+  </div>
+                                
+            </div>
+        
+        </div><!-- /#content -->
+        
+                
+        <div class="clear"></div>
+        
+                
+	</div>
+        
+	<div id="footer" >
+        <div class="container">
+        	<div class="sixteen columns clearfix">
+        
+                <div class="one_third">
+                  <div class="region region-footer-first">
+    <div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+      </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/sites/default/files/document-template-standalone_0.zip?destination=sites/default/files/document-template-standalone_0.zip" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/member/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/member/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-vjKCe5YcYextEfJ62paSntihZxvm8mI6ej28DoE4tzA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="121535" />
+<input type="hidden" name="captcha_token" value="c5b90904b3aea225cebd78b8827c3547" />
+<img typeof="foaf:Image" src="/image_captcha?sid=121535&amp;ts=1495781526"   alt="Image CAPTCHA" title="Image CAPTCHA" /><div class="form-item form-type-textfield form-item-captcha-response">
+  <label for="edit-captcha-response">What code is in the image? <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128" class="form-text required" />
+<div class="description">Enter the characters shown in the image.</div>
+</div>
+</div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+                </div>
+                
+                <div class="one_third">
+                  <div class="region region-footer-second">
+    <div id="block-simplenews-1" class="block block-simplenews">
+
+    <h2>The Commonwealths Newsletter</h2>
+  
+  <div class="content">
+          <p>Stay informed on our latest news!</p>
+  
+        
+      <div class="issues-link"><a href="/newsletter/commonwealths-newsletter">Previous issues</a></div>
+  
+  
+      <a href="/taxonomy/term/1/feed" class="feed-icon" title="Subscribe to The Commonwealths Newsletter feed"><img typeof="foaf:Image" src="http://www.commonwealths.org/misc/feed.png"   alt="Subscribe to The Commonwealths Newsletter feed" /></a>    </div>
+</div>
+  </div>
+                </div>
+                
+                <div class="one_third last">
+                                </div>
+        
+                <div class="clear"></div>
+                
+                  <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+                
+                <div class="clear"></div>
+                
+                <div id="credits">
+                2017                                 The Commonwealths- This is a Free Drupal Theme<br/>
+                                Ported to Drupal for the Open Source Community by <a href="http://www.drupalizing.com" target="_blank">Drupalizing</a>, a Project of <a href="http://www.morethanthemes.com" target="_blank">More than (just) Themes</a>. Original design by <a href="http://www.simplethemes.com/" target="_blank">Simple Themes</a>.
+                </div>
+        	</div>
+        </div>
+    </div>
+    
+</div> <!-- /#wrap -->  </body>
+</html>
