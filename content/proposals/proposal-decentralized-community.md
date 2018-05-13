@@ -2,6 +2,7 @@
 title: "Decentralized Community Proposal"
 date: 2018-05-13T11:30:50-07:00
 draft: false
+comments: false
 ---
 <h3>A word from the author,</h3>
 <p>The Decentralized Community proposal is a concept I put together from the help and assistance of many different people on-line and off to offer an alternative solution to the unlimited corruption we see in our current form of the united states government today. Although its based in the U.S., it can also be applied in any country on the earth for those who wish to rise up and challenge the status quo.</p>

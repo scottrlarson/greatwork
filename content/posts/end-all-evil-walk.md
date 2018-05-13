@@ -11,6 +11,6 @@ Institutions like our governments and the media have become political establishm
 
 > ”Petitions only strengthen the authority of the government by recognizing its authority and honoring the will of the majority. “[Any] man more right than his neighbors constitutes a majority of one already,”
 
-I'm in the stages of planning a route to walk. I haven't decided how far I will walk yet, how far as evil walked in our own lives? But my plan is to walk south toward the den of evil. I while ago I created a proposal on how we can build a better life without these institutions running our lives.
+I'm in the stages of planning a route to walk. I haven't decided how far I will walk yet, how far as evil walked in our own lives? But my plan is to walk south toward the den of evil. I while ago I created a [decentralized community proposal](/proposals/proposal-decentralized-community) on how we can build a better life without these institutions running our lives.
 
-See what you think, if you have suggestions on how we can build a better life by working together from a grassroots level and shed all institutional support If you would like to support my efforts you can email me at scott@thisgreatwork.org
+See what you think, if you have suggestions on how we can build a better life by working together from a grassroots level and shed all centralized power structure institutional support or if you would like to support my efforts you can email me at scott@thisgreatwork.org
