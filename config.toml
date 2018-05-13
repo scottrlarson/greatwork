@@ -52,16 +52,18 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
   sidebarMenuHeader = "Sidebar Links"
 
   # sidebar links
-  github = "https://github.com/parsiya/"
-  bitbucket = "https://bitbucket.org/parsiya/"
-  twitter = "https://twitter.com/cryptogangsta/"
-  keybase = "https://keybase.io/parsiya/"
+  github = ""
+  bitbucket = ""
+  twitter = ""
+  keybase = ""
   stackoverflow = ""
   linkedin = ""
   googleplus = ""
   youtube = ""
   facebook = ""
   instagram = ""
+  dispora = ""
+  peertube = ""
 
   # --- End sidebar options ---
 
@@ -76,7 +78,7 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
   author = "Scott : Larson"
 
   # This text appears in the site header under website title
-  subtitle = "Aligning with Universal Cosmic Spirutal Law"
+  subtitle = "Aligning with Universal Cosmic Spiritual Law"
 
   # Search engine URL
   searchEngineURL = "https://www.google.com/search"
@@ -165,21 +167,26 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 # Enable with "sidebarMenuEnabled = true" under [params]
 # Header text is "sidebarMenuHeader" under [params]
 [[menu.sidebar]]
-  Name = "Google"
-  URL = "https://www.google.com"
+  Name = "What On Earth Is Happening"
+  URL = "http://www.whatonearthishappening.com/"
   weight = 0
 
 [[menu.sidebar]]
-  Name = "Hugo"
-  URL = "/categories/hugo/"
+  Name = "Uk Column"
+  URL = "http://www.ukcolumn.org"
   weight = 1
 
 [[menu.sidebar]]
-  Name = "Homepage"
-  URL = "/"
+  Name = "PeerTube"
+  URL = "https://joinpeertube.org"
+  weight = 2
+
+[[menu.sidebar]]
+  Name = "PeerTube on Mastodon.host"
+  URL = "https://peertube.mastodon.host/"
   weight = 2
 
 # Blackfriday is Hugo's markdown engine. Options are at: https://gohugo.io/overview/configuration/#configure-blackfriday-rendering
 [blackfriday]
-  hrefTargetBlank = true # open the external links in a new window
+  hrefTargetBlank = false # open the external links in a new window
   fractions = false
