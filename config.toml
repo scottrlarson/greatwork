@@ -149,13 +149,17 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 [[menu.main]]
   Name = "Articles"
   URL = "/articles/"
-  weight = 200
+  weight = 100
 
+[[menu.main]]
+  Name = "Proposals"
+  URL = "/proposals/"
+  weight = 200
 
 [[menu.main]]
   Name = "Documents"
   URL = "/documents/"
-  weight = 200
+  weight = 300
 
 # Sidebar menus
 # Enable with "sidebarMenuEnabled = true" under [params]
