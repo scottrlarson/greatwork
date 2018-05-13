@@ -1,13 +1,13 @@
 baseurl = "/"
 disablePathToLower = false
 languageCode = "en-us"
-title = "The Great Work"
+title = "This Great Work"
 theme = "hugo-octopress"
 
 # Disqus shortcode
 # Disable comments for any individual post by adding "comments: false" in its frontmatter
 # Note it's not under [params] anymore
-disqusShortname = "Your disqus shortname"
+disqusShortname = "thisgreatwork"
 
 # Number of blog posts in each pagination page
 paginate = 6
@@ -45,7 +45,7 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
   # Sidebar text also supports markdown
   # New lines can be added with </br> or normal markdown (two spaces at the end of line or two new lines).
   # when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
-  sidebarText = """ All content on this site is only regulated under universal cosmic spiritual law. If you have an issue about any content on this site please send a verified claim or complaint with the statement of damages to slarson@commonwealths.org. If you take action without a verified claim or complaint that negatively effects my ability to operate this site in any way I will hold you liable for damages. See my fee schedule for interfering with the exercising of my rights.
+  sidebarText = """ All content on this site is only regulated under universal cosmic spiritual law. If you have an issue about any content on this site please send a verified claim or complaint with the statement of damages to claim@thisgreatwork.org. If you take action without a verified claim or complaint that negatively effects my ability to operate this site in any way I will hold you liable for damages. See my [fee schedule](/documents/fee-schedule-standalone/) for interfering with the exercising of my rights.
   """
   # Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
   sidebarMenuEnabled = true
@@ -67,13 +67,13 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 
   # If set to true, navigation menu links will open in a new window with the exception of links to root ("/")
   # If this item does not exist or set to false, then navigation menu links will open in the same window
-  navigationNewWindow = true
+  navigationNewWindow = false
 
   # If false, all of blog post will appear on front page (and in pagination)
   truncate = true
 
   # Author's name (appears in meta tags and under posts)
-  author = "Author's name"
+  author = "Scott : Larson"
 
   # This text appears in the site header under website title
   subtitle = "Aligning with Universal Cosmic Spirutal Law"
@@ -107,7 +107,7 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 
   # CSS override files
   # Paths should be relative to the `static` directory
-  # customCSS = ["css/custom.css","css/custom2.css"]
+  # customCSS = ["css/override.css",""]
 
   # 404.html header and text - both support markdown
   notFoundHeader = "There's nothing here"

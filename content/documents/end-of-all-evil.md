@@ -4,7 +4,8 @@ date: 2018-05-10T15:20:22-07:00
 draft: false
 comments: false
 ---
-
+## Notice
+This book is in the public domain, if you believe otherwise send a verified claim or complaint with documented proof with the reason for the removal to claim@thisgreatwork.org. I will research your claim/complaint with the documentation you provide to see if its valid. If you take any action without a verified claim or complaint that prevents this site, this page or the files in this page from being accessed on-line you will be held liable for damages. **Internet Service and Storage Providers** please obtain a verified claim/complaint before taking any action against my site this page or its files. A damaged party needs to produce an actual person and a statement with findings or facts that prove ownership before the claim/complaint is considered valid in most courts. Many claimants/complainants use threatening language without the necessary documentation to back up their claims/complaints to scare you into submission, don't fall for it..
 ![Photo of "The End of all Evil book"][logo]
 
 [logo]: /img/end-of-all-evil.jpg
